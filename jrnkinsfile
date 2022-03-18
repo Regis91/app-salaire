@@ -13,3 +13,8 @@ node{
       ansiblePlaybook (
           colorized: true,
           playbook: 'playbook.yaml',
+     }
+   }
+   
+ }
+  
